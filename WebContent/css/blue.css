@@ -1,0 +1,45 @@
+.icheckbox_square-blue {
+	background: url("red.png") no-repeat; margin: 0px; padding: 0px; border: currentColor; border-image: none; width: 22px; height: 22px; display: inline-block; cursor: pointer;
+}
+.iradio_square-blue {
+	background: url("red.png") no-repeat; margin: 0px; padding: 0px; border: currentColor; border-image: none; width: 22px; height: 22px; display: inline-block; cursor: pointer;
+}
+.icheckbox_square-blue {
+	background-position: 0px 0px;
+}
+.hover.icheckbox_square-blue {
+	background-position: -24px 0px;
+}
+.checked.icheckbox_square-blue {
+	background-position: -48px 0px;
+}
+.disabled.icheckbox_square-blue {
+	background-position: -72px 0px; cursor: default;
+}
+.disabled.checked.icheckbox_square-blue {
+	background-position: -96px 0px;
+}
+.iradio_square-blue {
+	background-position: -120px 0px;
+}
+.hover.iradio_square-blue {
+	background-position: -144px 0px;
+}
+.checked.iradio_square-blue {
+	background-position: -168px 0px;
+}
+.disabled.iradio_square-blue {
+	background-position: -192px 0px; cursor: default;
+}
+.disabled.checked.iradio_square-blue {
+	background-position: -216px 0px;
+}
+@media not all, not all, not all, not all
+{
+.icheckbox_square-blue {
+	background-image: url("blue@2x.png"); background-size: 240px 24px; -webkit-background-size: 240px 24px;
+}
+.iradio_square-blue {
+	background-image: url("blue@2x.png"); background-size: 240px 24px; -webkit-background-size: 240px 24px;
+}
+}
